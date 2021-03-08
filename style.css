@@ -91,10 +91,10 @@ nav ul {
 .hero {
   min-height: 90vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
-    url("/img/landing-page.jpg");
+    url("/img/pexels-arthouse-studio-4338015.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: right 0% bottom 10%;
   color: #ffffff;
   display: flex;
   flex-direction: column;
@@ -219,8 +219,8 @@ benefits
 
 #contact {
   min-height: 100vh;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
-    url(/img/contact-mountain.png);
+  background: linear-gradient(rgba(0, 0, 0, 0.3), transparent),
+    url(/img/pexels-rudolf-kirchner-1750823.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
